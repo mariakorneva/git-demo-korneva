@@ -52,3 +52,5 @@ Nothing really matters to me
 Anyway the wind blows
 
 This is the text line for the first commit in feature
+
+This is the text line for the second commit in feature
